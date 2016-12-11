@@ -1,8 +1,6 @@
 # awesome-nlp
 
 Currently working on
-- Character-Aware Neural Language Models https://arxiv.org/pdf/1508.06615v4.pdf
- CNN RNN
 
 Lists
 
@@ -10,10 +8,7 @@ Lists
 - http://www.thespermwhale.com/jaseweston/icml2016/icml2016-memnn-tutorial.pdf (slide 28+)
 - https://github.com/songrotek/Deep-Learning-Papers-Reading-Roadmap
   
-CNN NLP
 
-- Convolutional Neural Networks for Sentence Classification https://arxiv.org/abs/1408.5882
-  - http://www.wildml.com/2015/11/understanding-convolutional-neural-networks-for-nlp/
 
   
 Parsing
@@ -88,3 +83,13 @@ General Question Answering:
 
 - “Large-scale Simple Question Answering with Memory Networks” A. Bordes, N. Usunier, S. Chopra, J. Weston. 
 
+---
+
+CNN NLP
+
+> unclear why good
+
+- Convolutional Neural Networks for Sentence Classification https://arxiv.org/abs/1408.5882
+  - http://www.wildml.com/2015/11/understanding-convolutional-neural-networks-for-nlp/
+- Character-Aware Neural Language Models https://arxiv.org/pdf/1508.06615v4.pdf
+ CNN RNN
