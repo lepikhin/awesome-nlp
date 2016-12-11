@@ -4,6 +4,8 @@ Optimization
 
 - http://ai.stanford.edu/~quocle/LeNgiCoaLahProNg11.pdf
 
+
+
 Systems:
 
 
