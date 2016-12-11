@@ -3,6 +3,7 @@
 Lists
 
 - https://github.com/jtoy/awesome-tensorflow
+- http://www.thespermwhale.com/jaseweston/icml2016/icml2016-memnn-tutorial.pdf (slide 28+)
   
 CNN NLP
 
