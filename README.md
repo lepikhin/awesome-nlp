@@ -3,6 +3,10 @@
 Lists
   https://github.com/jtoy/awesome-tensorflow
   
+CNN NLP
+- Convolutional Neural Networks for Sentence Classification https://arxiv.org/abs/1408.5882
+
+  
 Parsing
 
 - Grammar as a Foreign Language https://arxiv.org/pdf/1412.7449v3.pdf
