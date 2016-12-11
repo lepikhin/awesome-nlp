@@ -1,9 +1,11 @@
 # awesome-nlp
 
 Lists
-  https://github.com/jtoy/awesome-tensorflow
+
+- https://github.com/jtoy/awesome-tensorflow
   
 CNN NLP
+
 - Convolutional Neural Networks for Sentence Classification https://arxiv.org/abs/1408.5882
 
   
