@@ -1,5 +1,9 @@
 # awesome-nlp
 
+Currently working on
+- Character-Aware Neural Language Models https://arxiv.org/pdf/1508.06615v4.pdf
+ CNN RNN
+
 Lists
 
 - https://github.com/jtoy/awesome-tensorflow
